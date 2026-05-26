@@ -27,11 +27,11 @@
 
 ### GitHub Stats
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimdawas&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimdawas&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdawas&layout=compact&theme=dark&hide_border=true)
----
 
+---
 ### Connect with me
 
 [![GitHub](https://img.shields.io/badge/-ibrahimdawas-181717?style=flat&logo=github&logoColor=white)](https://github.com/ibrahimdawas)
