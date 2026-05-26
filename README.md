@@ -35,3 +35,7 @@
 ### Connect with me
 
 [![GitHub](https://img.shields.io/badge/-ibrahimdawas-181717?style=flat&logo=github&logoColor=white)](https://github.com/ibrahimdawas)
+[![Instagram](https://img.shields.io/badge/-ibrahim.dawas-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ibrahim.dawas/)
+[![Facebook](https://img.shields.io/badge/-ibrahim.dawas.92-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ibrahim.dawas.92)
+[![LinkedIn](https://img.shields.io/badge/-ibrahim--dawas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-dawas-722b93275/)
+[![Gmail](https://img.shields.io/badge/-ibrahimdawas0@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ibrahimdawas0@gmail.com)
