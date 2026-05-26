@@ -29,7 +29,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimdawas&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdawas&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 ### Connect with me
