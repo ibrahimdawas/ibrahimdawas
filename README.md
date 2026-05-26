@@ -27,8 +27,9 @@
 
 ### GitHub Stats
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimdawas&show_icons=true&theme=dark&hide_border=true)
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimdawas&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimdawas&layout=compact&theme=dark&hide_border=true)
 ---
 
 ### Connect with me
